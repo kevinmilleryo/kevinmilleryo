@@ -7,7 +7,7 @@
 
 - 📫 How to reach me http://kevinmilleryo.netlify.app
 
-- ⚡ Fun fact **I've worked in the craft beer industry for over 10 years. I'm a pretty good musician that can play multiple instruments.**
+- ⚡ Fun fact: **I've worked in the craft beer industry for over 10 years. I'm a pretty good musician that can play multiple instruments.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
