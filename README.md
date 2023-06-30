@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevin Miller</h1>
 <h3 align="center">Full-Stack Software Engineer from Jacksonville, Florida</h3>
 
-- 🌱 I’m currently learning **Javascript, Node, React**
+- 🌱 I’m currently learning **Typescripe**
 
-- 💬 Ask me about **my experience learning software development**
+- 💬 Ask me about **my experience in software development**
 
 - 📫 How to reach me http://kevinmilleryo.netlify.app
 
-- ⚡ Fun fact: **I've worked in the craft beer industry for over 10 years. I'm a pretty good musician that can play multiple instruments.**
+- ⚡ Fun fact: **I've worked as a sales professional in the craft beer industry for over 10 years. I'm a pretty good musician that can play multiple instruments.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
