@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Miller</h1>
 <h3 align="center">Full-Stack Software Engineer from Jacksonville, Florida</h3>
 
-- 🌱 I’m currently learning **Typescripe**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **my experience in software development**
 
